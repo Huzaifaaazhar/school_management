@@ -12,8 +12,6 @@ This project implements a school management system using Django. It allows manag
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD](link_to_your_image_or_ASCII_representation)
-
 Entities:
 - Teacher
 - Class
@@ -33,4 +31,27 @@ Relationships:
 - SQLite (or your database of choice)
 - Git (for version control)
 
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/school_management.git
+   cd school_management
+
+#### 10. Contributing
+
+How others can contribute to your project:
+
+```markdown
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Make your changes
+4. Commit your changes (`git commit -am 'Add new feature'`)
+5. Push to the branch (`git push origin feature/your-feature`)
+6. Create a new Pull Request
 
